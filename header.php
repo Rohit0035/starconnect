@@ -17,7 +17,7 @@
     <meta property="og:description"
         content="Professional industrial automation solutions including PLC, SCADA, HMI, VFD, control panels, project consultancy and training.">
     <meta property="og:image" content="assets/images/og-star-connect-automation.jpg">
-    <meta property="og:url" content="https://www.starconnectautomation.com">
+    <meta property="og:url" content="https://starconnectautomation.com/">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
@@ -27,7 +27,7 @@
     <meta name="twitter:image" content="assets/images/og-star-connect-automation.jpg">
 
     <!-- Canonical -->
-    <link rel="canonical" href="https://www.starconnectautomation.com">
+    <link rel="canonical" href="https://starconnectautomation.com/">
 
     <!--=== CSS Link ===-->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -44,7 +44,7 @@
     <link rel="stylesheet" href="../../demos/demos-style.css">
 
     <!--=== Favicon ===-->
-    <!-- <link rel="icon" type="image/png" href="assets/images/favicon.png"> -->
+    <link rel="icon" type="image/png" href="assets/images/common/favicon.jpg">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
@@ -82,8 +82,8 @@
                         <ul class="header-info-content bg-color-f55e1a">
                             <li>
                                 <i class="icofont-envelope"></i>
-                                <a href="mailto:info@gmail.com">
-                                   info@gmail.com
+                                <a href="mailto:info@starconnectautomation.com">
+                                    info@starconnectautomation.com
                                 </a>
                             </li>
                             <!-- <li>
@@ -94,6 +94,11 @@
                     </div>
 
                     <div class="col-lg-4">
+                        <div class="small text-white text-end">
+                            <i class="icofont-phone"></i>
+                            <a href="tel:++916363878450" class="text-white">+916363878450</a>
+                        </div>
+
                         <!-- <ul class="header-social-content">
                             <li>
                                 <a href="#" target="_blank">
@@ -168,13 +173,15 @@
                                 </li>
 
                                 <li class="nav-item">
-                                    <a href="ser-automationprojectmanagement.php" class="nav-link">Automation Project Management</a>
+                                    <a href="ser-automationprojectmanagement.php" class="nav-link">Automation Project
+                                        Management</a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="ser-controlsystem.php" class="nav-link">Control System Engineering</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="ser-controlpanelmanufacturing.php" class="nav-link">Control Panel Manufacturing</a>
+                                    <a href="ser-controlpanelmanufacturing.php" class="nav-link">Control Panel
+                                        Manufacturing</a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="ser-projectconsultancy.php" class="nav-link">Project Consultancy</a>
@@ -245,7 +252,8 @@
                         </li>
 
                         <li class="nav-item">
-                            <a href="ser-automationprojectmanagement.php" class="nav-link">Automation Project Management</a>
+                            <a href="ser-automationprojectmanagement.php" class="nav-link">Automation Project
+                                Management</a>
                         </li>
                         <li class="nav-item">
                             <a href="ser-controlsystem.php" class="nav-link">Control System Engineering</a>

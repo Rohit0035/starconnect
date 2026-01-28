@@ -45,7 +45,8 @@
                 <div class="h-100 bg-white text-center p-4 rounded shadow-sm d-flex flex-column justify-content-center">
                     <i class="fa fa-envelope fa-2x mb-3 text-dark"></i>
                     <h5 class="fw-semibold">Email Us</h5>
-                    <p class="mb-0">info@yourcompany.com</p>
+                    <p class="mb-0">info@starconnectautomation.com</p>
+                     <p class="mb-0">qudstechnologies@gmail.com</p>
                 </div>
             </div>
 

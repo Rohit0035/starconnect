@@ -117,10 +117,12 @@ img.st-logo {
     color: #000 !important;
 }
 
-a:hover {
+.main-footer-item .contact-info li a
+
+/* a:hover {
     text-decoration: none;
     color: #fff !important;
-}
+} */
 
 
 .navbar-nav .nav-item .nav-link:hover{

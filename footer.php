@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col-lg-3 col-sm-6">
                 <div class="main-footer-item wow fadeInUp delay-0-2s">
-                    <a href="index.html" class="footer-logo">
+                    <a href="index.php" class="footer-logo">
                         <img src="assets/images/common/logo-dark.png" alt="Image" class="st-logo rounded">
                     </a>
                     <p>We believe great architecture is born from thoughtful planning and purposeful design.</p>
@@ -96,9 +96,11 @@
                        
                         <li>
                             <i class="icofont-location-pin"></i>
-                            <span># 6/2-3, Minerva Mill Back Side,
+                            <span>
+                                # 6/2-3, Minerva Mill Back Side,
                                 Gopalapura, Magadi Road,
-                                Bangalore - 23</span>
+                                Bangalore - 23
+                            </span>
                         </li>
                         <li>
                             <i class="icofont-phone"></i>
@@ -106,7 +108,7 @@
                         </li>
                         <li>
                             <i class="fa-regular fa-envelope"></i>
-                            <a href="tel:++916363878450">+916363878450</a>
+                            <a href="mailto:info@starconnectautomation.com"> info@starconnectautomation.com  </a>
                         </li>
                     </ul>
                 </div>
